@@ -13,17 +13,17 @@ The goal of this project is to provide a tooklit of resources from a variety of 
 
 # How to contribute
 
-1. [Fork the repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#editing-a-fork)
-2. [Edit the fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#editing-a-fork)
-3. [Submit a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to the original howtochicken repository.
+1. [Fork the repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#editing-a-fork ':target=_blank')
+2. [Edit the fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#editing-a-fork ':target=_blank')
+3. [Submit a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests ':target=_blank') to the original howtochicken repository.
 
-For more information on [pull requests](https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/), or other GitHub information see [GitHub's getting started documentation](https://docs.github.com/en/get-started).
+For more information on [pull requests](https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/ ':target=_blank'), or other GitHub information see [GitHub's getting started documentation](https://docs.github.com/en/get-started ':target=_blank').
 
 # How to run this project locally
 
-1. Download [Node Version Manager](https://github.com/nvm-sh/nvm)
-2. Install latest [Node.js](https://nodejs.org/en) . On Mac in terminal type `nvm install lts`
-3. Install [docsify](https://docsify.js.org/#/). On Mac in terminal type `npm i docsify-cli -g`
+1. Download [Node Version Manager](https://github.com/nvm-sh/nvm ':target=_blank')
+2. Install latest [Node.js](https://nodejs.org/en ':target=_blank') . On Mac in terminal type `nvm install lts`
+3. Install [docsify](https://docsify.js.org/#/ ':target=_blank'). On Mac in terminal type `npm i docsify-cli -g`
 4. After git cloning the repository, change directory into the cloned repository. On Mac in terminal type `docsify serve docs`
-5. Visit the site at: `http://localhost:3000`
+5. Visit the site at: [http://localhost:3000](http://localhost:3000 ':target=_blank')
 
