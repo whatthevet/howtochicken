@@ -5,4 +5,5 @@
 * [Health](health.md)
 * [Veterinary care](vet.md)
 * [Resources](resources.md)
+* [Contributing](contributing.md)
 * [Citations](citations.md)
