@@ -1,0 +1,8 @@
+* [Home](readme.md)
+* [How to begin](how-to.md)
+* [Housing](housing.md)
+* [Nutrition](nutrition.md)
+* [Health](health.md)
+* [Veterinary care](vet.md)
+* [Resources](resources.md)
+*[Citations](citations.md)
