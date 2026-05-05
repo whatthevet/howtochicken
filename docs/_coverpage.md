@@ -5,7 +5,7 @@
 - *Information is in draft form and has not been reviewed for accuracy*
 - [![GitHub](_media/GitHub_Invertocat_Black.svg ':size=30')](https://github.com/whatthevet/howtochicken ':target=_blank')
 
-[Get Started](/?id=the-project)
+[Get Started](/?id=the-chicken-project)
 
 ![color](#fff)
 

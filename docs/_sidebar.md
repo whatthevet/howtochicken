@@ -7,3 +7,4 @@
 * [Resources](resources.md)
 * [Contributing](contributing.md)
 * [Citations](citations.md)
+* [License](https://github.com/whatthevet/howtochicken/blob/main/LICENSE ':target=_blank')
