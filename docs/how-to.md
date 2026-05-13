@@ -22,7 +22,7 @@ Enough space for each chicken is important for their general health and stress l
 
 ## Buying your chicken(s)
 
-Ideally get your chickens from a National Poultry Improvement Plan (NPIP) certified hatchery. These hatcheries are tested/monitored for certain diseases:
+Ideally get your chickens from a National Poultry Improvement Plan (NPIP) certified hatchery or breeder that has also vaccinated for Marek's disease. These hatcheries/breeders are tested/monitored for certain diseases in order to be NPIP certified:
 
 > " The NPIP was initiated to help diminish the spread of Pullorum Disease, caused by Salmonella Pullorum which was rampant in the poultry industry and could cause upwards of 80% mortality in baby poultry. The program was later extended to include testing and monitoring for other poultry diseases [[C6](/citations?id=citation-c6)]."
 
