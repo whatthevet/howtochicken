@@ -40,4 +40,11 @@ It is also important to obtain a certificate of purchase, which may show any imp
 
 ### Chicken types
 
-Chickens have been bred and owned for various purposes. There are meat breeds, egg-laying breeds, dual breeds and ornamental breeds [[C5](/citations?id=citation-c5)]. Which type of chicken to own is a personal decision based on why you want to own a chicken, where you live, how big your property is and other factors. For example, a laying hen will be a good type of chicken to own if you or your family want to own chickens to provide eggs. However, certain breeds of laying hens may be more or less suited to live in warmer climates.
+Chickens have been bred and owned for various purposes:
+
+* meat chickens
+* egg-laying chickens
+* dual chickens (eggs and meat)
+* ornamental chickens [[C5](/citations?id=citation-c5)]. 
+
+Which type of chicken to own is a personal decision based on why you want to own a chicken, where you live, how big your property is and other factors. For example, a laying hen will be a good type of chicken to own if you or your family want to own chickens to provide eggs. However, certain breeds of laying hens may be more or less suited to live in warmer climates.
