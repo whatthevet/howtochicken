@@ -1,4 +1,3 @@
-* [Home](readme.md)
 * [How to begin](how-to.md)
 * [Housing](housing.md)
 * [Nutrition](nutrition.md)
