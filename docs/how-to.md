@@ -28,7 +28,7 @@ Ideally get your chickens from a National Poultry Improvement Plan (NPIP) certif
 
 ##### [Find NPIP Participants By US State](https://www.poultryimprovement.org/statesContent.cfm ':target=_blank')
 
-NPIP certified chicken flocks are currently monitored and tested for many different diseases including [[C5](/citations?id=citation-c5)]:
+NPIP certified chicken flocks are currently monitored and tested for many different diseases including [[C6](/citations?id=citation-c6)]:
 
 * Salmonella Pullorum (Causative agent of Pullorum disease)
 * Salmonella Gallinarum (Causative agent of Fowl Typhoid)
@@ -36,7 +36,7 @@ NPIP certified chicken flocks are currently monitored and tested for many differ
 * Mycoplasma synoviae
 * Avian Influenza
 
-It is also important to obtain a certificate of purchase, which may show any important vaccinations given for common chicken diseases, such as Marek's disease, prior to purchase. While this is important to have, one veterinarian estimated less than 10% of backyard chicken owners that come into their clinic have a certificate of purchase or information regarding prior vaccination [[C3](/citations?id=citation-c3)]:
+It is also important to obtain a certificate of purchase, which may show any important vaccinations given for common chicken diseases, such as Marek's disease, prior to purchase. While this is important to have, one veterinarian estimated less than 10% of backyard chicken owners that come into their clinic have a certificate of purchase or information regarding prior vaccination [[C4](/citations?id=citation-c4)]:
 
 ### Chicken types
 

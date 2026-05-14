@@ -10,7 +10,7 @@
 
 ## Is it ok to feed my chickens table scraps?
 
-Usually chickens fed tablescraps need to supplemented with additional minerals. For example, laying hens fed table scraps should be supplemented with calcium [[C1](/citations?id=citations-c1)]. While many table scraps themselves are not necessarily harmful to chickens, it is not ideal to feed human table scraps as the nutrients are not balanced for chickens to stay healthy. Feeding too much table scraps or "scratch" has been cited as one of the most common chicken husbandry issues veterinarian practices see [[C3](/citations?id=citations-c3)].
+Usually chickens fed tablescraps need to supplemented with additional minerals. For example, laying hens fed table scraps should be supplemented with calcium [[C2](/citations?id=citations-c2)]. While many table scraps themselves are not necessarily harmful to chickens, it is not ideal to feed human table scraps as the nutrients are not balanced for chickens to stay healthy. Feeding too much table scraps or "scratch" has been cited as one of the most common chicken husbandry issues veterinarian practices see [[C4](/citations?id=citations-c4)].
 	
 ## Why is my chicken missing feathers?
 

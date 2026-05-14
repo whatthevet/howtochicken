@@ -2,18 +2,15 @@
 
 ## How much water does my chicken need?
 
-Water for chickens should not be withheld, and should be available to them freely, 24 hours a day. It should also be kept clean, which means in most cases changing daily [[C1](/citations?id=citations-c1)].
+Water for chickens should not be withheld, and should be available to them freely, 24 hours a day. It should also be kept clean, which means in most cases changing daily [[C2](/citations?id=citations-c2)].
 
 ## What nutrients do my chickens need?
 
 This is variable depending on the type and age of the chicken. The following are guidelines based on the chicken's age and type:
 
-* Chicks:
-	* Under 20 weeks of age: 20% protein, 4% fat, <2% calcium
-* Adults:
-	* Laying hens: 16% protein, 3.5-5% calcium
-		* Recommended to provide calcium source to laying hens like crushed oyster shells
-	* Non-laying hens/roosters: 16-22% protein, 0.8-<2% calcium. These chickens usually do not extra need calcium supplementation. [[C1](/citations?id=citations-c1)]
+> * "Young <20 weeks: 20% protein, 4% fat, <2% calcium
+> * Laying hen: 16% protein, 3.5-5% calcium
+> * Non-laying hen, Rooster: 16-22% protein, <2% calcium(0.8-2%)  [[C2](/citations?id=citations-c2)]"
 
 ### How do I find food that meets these requirements?
 

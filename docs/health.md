@@ -33,7 +33,7 @@ Just like people, chickens can suffer from various health issues. Trauma from an
 
 ### Monitoring your chicken's health
 
-Healthy birds are active, curious, have open eyes, and hold their head up [[C5](/citations?id=citation-c5)]. Make sure to observe your chickens from far away as well as up close, because sometimes sick birds pretend to not be sick in order to avoid perceived predators [[C5](/citations?id=citation-c5)].
+Healthy birds are active, curious, have open eyes, and hold their head up. Make sure to observe your chickens from far away as well as up close, because sometimes sick birds pretend to not be sick in order to avoid perceived predators [[C5](/citations?id=citation-c5)].
 
 ## Veterinary Services
 
