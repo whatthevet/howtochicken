@@ -10,7 +10,7 @@
 
 ## Content
 
-##### [C1] Animal and Plant Health Inspection Service. (2026, February 5). Defend the flock. United States Department of Agriculture. https://www.aphis.usda.gov/livestock-poultry-disease/avian/defend-the-flock :id=citation-c1
+##### [C1] Animal and Plant Health Inspection Service. (2026, February 5). *Defend the Flock*. United States Department of Agriculture. https://www.aphis.usda.gov/livestock-poultry-disease/avian/defend-the-flock :id=citation-c1
 
 ##### [C2] Lamb, S. (2026). Preventative Medicine in Backyard Poultry [Class handout]. University of Arizona College of Veterinary Medicine, SEL 032. :id=citation-c2
 
