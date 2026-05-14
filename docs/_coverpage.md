@@ -1,4 +1,4 @@
-# How to chicken
+# How to Chicken
 ## A backyard chicken toolkit prototype
 # :chicken: :chicken: :chicken:
 - *This site is currently under active development by students as a school project*
