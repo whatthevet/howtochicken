@@ -19,6 +19,8 @@ Backyard chicken ownership has increased throughout the United States. Many peop
 
 The goal of this project is to provide a toolkit of resources from a variety of credible sources about getting started and successfully maintaining a backyard chicken flock. While it will not have everything a backyard chicken owner needs to know, more information can be added over time, and it should get owners and potential owners pointed in the right direction. This project also aims to provide things to consider prior to obtaining chickens in order to help future owners best plan for success and attempt to improve backyard poultry and public health.
 
+This site is meant to be a living document that is updated with credible backyard chicken information and resources.
+
 ##  This Website
 
 ##### License
