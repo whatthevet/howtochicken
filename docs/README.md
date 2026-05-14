@@ -13,7 +13,7 @@ This project began as an assignment through the University of Arizona College of
 ## Learning objectives
 
 1. **Identify requirements needed to start a backyard chicken flock**
-2. **Locate reliable resources for owning a backyard chicken flock**
+2. **Locate reliable resources for common questions that may arise while owning backyard chickens**
 
 Backyard chicken ownership has increased throughout the United States. Many people are motivated to care for chickens in their own backyard to provide eggs for their family and as a fun hobby. However, many people struggle in finding accurate science based sources of information to get started and maintain their backyard chicken flock. While much information is available, credible and uncredible sources of information may be mixed and cause confusion.
 
