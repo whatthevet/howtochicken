@@ -24,6 +24,7 @@ Biosecurity is the process of implementing a practice of keeping infectious viru
 
 For more information, watch the video from the US Department of Agriculture Animal and Plant Health Inspection Service ([USDA APHIS](https://www.aphis.usda.gov/ ':target=_blank')) below:
 
+##### USDA APHIS Defend the Flock - Biosecurity Practices to Protect Your Poultry :id=defend-the-flock-youtube
 [filename](_media/defendtheflock-biopracticesyoutube.html ':include :size=600')
 
 ## Common health issues
