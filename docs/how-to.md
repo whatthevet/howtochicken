@@ -16,7 +16,7 @@ Similar to the saying, "With great power comes great responsibility"...backyard 
 
 Different US states have different laws regarding backyard poultry ownership. Likewise, counties, cities, and homeowners associations may have different ordinances and rules that apply to your community. Make sure to check into your State's statutes, county and city ordinances and HOA bylaws.
 
-### Space
+### Space :id=space
 
 Enough space for each chicken is important for their general health and stress level. The exact amount of space needed is up for debate, with generally more space needed for older chickens vs. younger chickens [[C5](/citations?id=citation-c5)]. Some experts recommend 8 - 10 square feet per chicken [[C2](/citations?id=citation-c2)], while others suggest recommendations of 8 square feet for smaller meat birds (less than 5.5 lbs) to 12 square feet for laying hens [[C5](/citations?id=citation-c5)]. More space can always be added later as long as the property allows [[C5](/citations?id=citation-c5)].
 
