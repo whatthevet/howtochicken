@@ -22,33 +22,23 @@ Biosecurity is the process of implementing a practice of keeping infectious viru
 * Ideal to designate boots for inside your coop/ around your flock
 * Quarantine chickens that show signs of sickness OR any new additions to your flock [[C1](/citations?id=citation-c1)]
 
-For more information, or if you prefer visual learning, watch the video from the US Department of Agriculture Animal and Plant Health Inspection Service ([USDA APHIS](https://www.aphis.usda.gov/ ':target=_blank')) below:
+For more information, watch the video from the US Department of Agriculture Animal and Plant Health Inspection Service ([USDA APHIS](https://www.aphis.usda.gov/ ':target=_blank')) below:
 
 [filename](_media/defendtheflock-biopracticesyoutube.html ':include :size=600')
 
 ## Common health issues
 
-Just like people, chickens can suffer from various health issues. These can include, but are not limited to:
-
-* Trauma
-* Heat stress/exhaustion
-* Bumblefoot, lameness
-* Mites/lice
-* Bacterial, viral and parasitic infections
-* Egg binding
-* Anorexia
-
-and many others [[C2](/citations?id=citation-c2)].
+Just like people, chickens can suffer from various health issues. Trauma from animal attack, reproductive diseases (egg binding - stuck in the reproductive tract, low calcium, cancer), respiratory diseases (bacterial, viral, fungal) and bumblefoot (foot inflammation/infection) are commonly cited reasons chickens see a veterinarian [[C4](/citations?id=citation-c4)].
 
 ### Monitoring your chicken's health
 
-Healthy birds are active, curious, have open eyes, and hold their head up [[C5](/citations?id=citation-c5)]. Make sure to observe your chickens from far away as well as up close, because sometimes sick birds pretend to not be sick as a response in order to avoid predators [[C5](/citations?id=citation-c5)]. 
-
-
+Healthy birds are active, curious, have open eyes, and hold their head up [[C5](/citations?id=citation-c5)]. Make sure to observe your chickens from far away as well as up close, because sometimes sick birds pretend to not be sick in order to avoid perceived predators [[C5](/citations?id=citation-c5)].
 
 ## Veterinary Services
 
 ### When to seek veterinary care
+
+Any chicken that is not showing signs of good health, has their head consistently down, eyes closed, is having difficulty breathing, or is lying down and unresponsive should seek veterinary care.
 
 ### Where to seek veterinary care
 
