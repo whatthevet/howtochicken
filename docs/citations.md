@@ -39,4 +39,4 @@
 ##### [I7] Woodward, E. (1939). Gossip [Drawing]. Smithsonian. https://www.si.edu/object/gossip:saam_1935.13.394 :id=citation-i7
 
 ## Technology
-##### [T1] [Docsify](https://github.com/docsifyjs/docsify/ ':target=_blank') (v4.4.4) [A magical documentation site generator]. https://github.com/docsifyjs/docsify/] :id=citation-t1
+##### [T1] [Docsify](https://github.com/docsifyjs/docsify/ ':target=_blank') (v4.13.1) [A magical documentation site generator]. https://github.com/docsifyjs/docsify/ :id=citation-t1
