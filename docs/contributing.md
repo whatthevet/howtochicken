@@ -14,4 +14,4 @@
 
 For more information on [pull requests](https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/ ':target=_blank'), or other GitHub information see [GitHub's getting started documentation](https://docs.github.com/en/get-started ':target=_blank').
 
-The GitHub respository for this site is located [here](https://github.com/whatthevet/howtochicken ':target=_blank').
+The GitHub repository for this site is located [here](https://github.com/whatthevet/howtochicken ':target=_blank').
