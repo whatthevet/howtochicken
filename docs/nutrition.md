@@ -13,7 +13,7 @@ This is variable depending on the type and age of the chicken. The following are
 * Adults:
 	* Laying hens: 16% protein, 3.5-5% calcium
 		* Recommended to provide calcium source to laying hens like crushed oyster shells
-	* Non-laying hens/roosters: 16-22% protein, 0.8-<2% calcium [[C1](/citations?id=citations-c1)]
+	* Non-laying hens/roosters: 16-22% protein, 0.8-<2% calcium. These chickens usually do not extra need calcium supplementation. [[C1](/citations?id=citations-c1)]
 
 ### How do I find food that meets these requirements?
 
