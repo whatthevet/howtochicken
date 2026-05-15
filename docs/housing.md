@@ -29,7 +29,7 @@ Perches should be available for adult chickens and should be introduced at 6 wee
 Nest boxes should only be introduced to laying hens at around 17 weeks of age. Introducing boxes prior to this will result in chickens using them to expel waste. While one nest box can be used for 4-6 laying hens, hens will use multiple boxes based on preference [[C5](/citations?id=citation-c5)].
 
 ## Other housing considerations
-'
+
 ### Temperature
 
 It is also important to consider the climate when designing housing for chickens:
