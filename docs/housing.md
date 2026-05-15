@@ -20,7 +20,7 @@ The run is an optional semi-open area attached to the coop that still needs to a
 
 ## Fencing and roofing
 
-Any fencing utilized in the construction of the coop or run should be tall enough to keep chickens in and predators out. For example, a fence should be 6-8 ft tall, and consisting of 3/4 inch chicken-wire that is buried 6 inches under ground to protect from ground predators [[C2](/citations?id=citation-c2)]. Roofing additions can also be made to help protect from birds of prey and provide shade. Keep in mind, the actual [coop](/housing?id=coop) should be enclosed, while the optional [run](/housing?id=run) may be more open.
+Any fencing utilized in the construction of the coop or run should be tall enough to keep chickens in and predators out. For example, a fence should be 6-8 ft tall, and consist of 3/4 inch chicken-wire that is buried 6 inches under ground to protect from ground predators [[C2](/citations?id=citation-c2)]. Roofing additions can also be made to help protect from birds of prey (hawks etc.) and provide shade. Keep in mind, the actual [coop](/housing?id=coop) should be enclosed, while the optional [run](/housing?id=run) may be more open.
 
 ## The perch and the nest box
 
