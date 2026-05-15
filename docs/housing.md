@@ -10,15 +10,17 @@
 
 > "The backyard chicken coop may be elaborate and esthetically pleasing to the owner’s eye, resembling a child’s playhouse: windows, flower boxes, painted, and so on. The chicken coop might also be very simple, consisting of a cube made of treated lumber with chicken wire or composed of bits and pieces of metal, wire, and wood found around the home. There is no wrong way to create the chicken coop, but the design of the backyard chicken coop should be easy to clean, protect the birds from predators, and provide adequate space for the birds [[C5](/citations?id=citation-c5)]."
 
-## The coop
+## The coop :id=coop
 
 This is an enclosed house for your chickens. It should prevent access and protect from predators on the ground (dogs, foxes, raccoons, cats, skunks, bobcats, snakes etc.), and in the sky (hawks, owls, ravens etc.). Any openings should be covered with screens or hardware cloth [[C5](/citations?id=citation-c5)]. Keep in mind [space requirements](/how-to?id=space) per chicken, combined with whether or not there is a run associated with this coop, and time spent between the coop and the run.
 
-## The run
+## The run :id=run
 
 The run is an optional semi-open area attached to the coop that still needs to attempt to limit access to wild birds and predators [[C5](/citations?id=citation-c5)]. Runs can be included to increase space for chickens, while still providing some protection. Time spent in a run vs coop should be considered when determining space requirements.
 
-Fencing of the run should be tall enough to keep chickens in the run and predators out of the run. For example, 6-8 ft tall, and consisting of 3/4 inch chicken-wire that is buried 6 inches under ground is appropriate to protect from many ground predators [[C2](/citations?id=citation-c2)]. Additions can also be made to help protect from birds of prey.
+## Fencing and roofing
+
+Any fencing utilized in the construction of the coop or run should be tall enough to keep chickens in and predators out. For example, a fence should be 6-8 ft tall, and consisting of 3/4 inch chicken-wire that is buried 6 inches under ground to protect from ground predators [[C2](/citations?id=citation-c2)]. Roofing additions can also be made to help protect from birds of prey and provide shade. Keep in mind, the actual [coop](/housing?id=coop) should be enclosed, while the optional [run](/housing?id=run) may be more open.
 
 ## The perch and the nest box
 
