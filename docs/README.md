@@ -35,11 +35,4 @@ See [contributing](contributing)
 
 This website was developed using [Docsify](https://docsify.js.org/ ':target=_blank') [[T1](/citations?id=citation-t1)]. There are many examples of Docsify being utilized for software documentation, but it can be used to document a variety of projects, including this one: How to Chicken.
 
-##### How to run this project locally
-
-1. Download [Node Version Manager](https://github.com/nvm-sh/nvm ':target=_blank')
-2. Install latest [Node.js](https://nodejs.org/en ':target=_blank') . On Mac in terminal type `nvm install lts`
-3. Install [docsify](https://docsify.js.org/#/ ':target=_blank'). On Mac in terminal type `npm i docsify-cli -g`
-4. After git cloning the repository, change directory into the cloned repository. On Mac in terminal type `docsify serve docs`
-5. Visit the site at: [http://localhost:3000](http://localhost:3000 ':target=_blank')
 
